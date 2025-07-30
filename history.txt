@@ -1,0 +1,15 @@
+  500  git clone https://github.com/DalitsoRadebe/Project_Navigator.git
+  501  cd Project_Navigator
+  502  touch Project-Navigator.sh
+  503  chmod +x Project-Navigator.sh
+  504  ./Project-Navigator.sh
+  505  nano Project-Navigator.sh
+  506  chmod +x Project-Navigator.sh
+  507  ./Project-Navigator.sh
+  508  ls
+  509  ls
+  510  git init
+  511  git add .
+  512  git commit -m created automation Project-Navigator
+  513  git push
+  514  history 
